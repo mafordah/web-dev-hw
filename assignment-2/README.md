@@ -14,4 +14,4 @@ I am taking Intro to Web Design because I am a Media Arts major, and I am intere
 
 [Reponses](./responses.txt)
 
-[Screenshot](./images/assignment-02-atom)
+[Screenshot](./images/assignment-02-atom.PNG)
