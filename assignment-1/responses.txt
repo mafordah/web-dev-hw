@@ -1,3 +1,21 @@
-Filler text
-Filler text
-Filler text
+***How is the web different from the internet?
+
+The web is different from the internet in that the internet is the physical connection between all computational devices and the web is the connections between the information on the internet such as links and hyperlinks.
+
+***Briefly describe how the internet works.
+
+The internet works by using physical wires in the ground to connect devices. Your computer connects to an Internet Service Provider (ISP), by means of a modem and router, and the ISP connects to the physical internet and sends your information to other ISPs and devices upon your request. This information in broken up pieces when it's sent and reassembled when it is recieved.
+
+***What is a directory, and what is its relationship to files?
+
+A directory is a term used to discribe the 'folder' system used to organize files. It is a path consisting of a tree-like structure that directs you to files on the internet or on your own computer.
+
+***Why is using a VCS beneficial?
+
+Using a version control system is beneficial because you have a record of what has been done to a project, you can always return to previous states of a project, other people can see the changes you've made if you are working collaboratively.
+
+***State at least one thing you found interesting this topic, or that you didn't know before.
+
+Because it's a free tool, I didn't realize Git Hub is an industry standard tool. I have used it with Processing in Creative Coding, but it didn't occur to me that it is concidered a professional tool. I am happy to know I will be starting out with something I may come accross again.
+
+I apologize for the late responce to these questions. I didn't read your instructions thoroughly when I submitted these the first time.
