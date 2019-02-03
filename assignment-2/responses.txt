@@ -1,0 +1,27 @@
+Briefly describe one way how data travels on the internet.
+
+Data travels on the internet as single bits, 1s or 0s, over time.
+This can be done through electricity, light, or radio waves. When
+traveling by light, light runs through fiber optics cables (threads
+of glass that reflect light) with the light on representing a 1
+and off representing a 0. This is the fastest form of travel for
+data on the internet as it can send multiple beams of light at
+once, and it travels literally at the speed of light.
+
+What is the relationship between an IP address and the DNS?
+
+An IP address is a hierarchy of numbers used to identify devices on
+the internet. A DNS is used by computers to look up web domains and
+identify their IP addresses so websites can be accessed.
+
+What is a cookie?
+
+A cookie is the number used by a website to remember who a user is.
+This number is saved by your browser to be used by a website to
+identify you and your preferences the next time you access it.
+
+List the three basic parts of a URL.
+
+- Protocol
+- Domain Name
+- Path
