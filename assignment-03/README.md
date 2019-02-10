@@ -15,4 +15,4 @@ A markup language is the text language used to build primarily text related cont
 web page. HTML is the most common markup language. It is standardized, but it has frequent
 version changes and not all HTML sites open the same on every browser.
 
-[Screenshot](./images/assignment-03-html.png)
+[Screenshot](./images/assignment-03-html.PNG)
