@@ -1,15 +1,15 @@
 # Assignment 4
 ## Miya Fordah
-#### <head> and <body> Elements
+#### Head and Body Elements
 
-Each HTML page can only have one <head> and one <body> element.
+Each HTML page can only have one head and one body element.
 
-The <head> element contains data about the webpage for the browser to process
+The head element contains data about the webpage for the browser to process
 such as the website's title, description, and author. It also includes other
 meta data such as what characters the website uses (charset) and it's viewport
 (width and scale).
 
-The <body> element contains the data that shows up directly on the webpage. This
+The body element contains the data that shows up directly on the webpage. This
 includes any text, links, images, etc. It also includes the structure of the text.
 
 #### Structural vs Semantic Markup
@@ -28,7 +28,7 @@ began with adding the four main document elements: doctype, HTML, head, and body
 From there, I added the language and country code attribute to the HTML element.
 I then added the different types of meta data we addressed this week to the <head>. I was a
 little confused about whether or not the elements that go inside the <head> and
-<body> are considered <head> and <body> elements. I answered the
+<body> are considered head and body elements. I answered the
 README question assuming that wasn't the case, but I wasn't sure.
 
 I decided to make this week's webpage on a cream puff recipe, because I've been
