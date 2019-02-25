@@ -26,14 +26,14 @@ to change or highlight the meaning of a document's text.
 This cycle, I further familiarized my self with HTML as a markup language. I
 began with adding the four main document elements: doctype, HTML, head, and body.
 From there, I added the language and country code attribute to the HTML element.
-I then added the different types of meta data we addressed this week to the <head>. I was a
-little confused about whether or not the elements that go inside the <head> and
-<body> are considered head and body elements. I answered the
+I then added the different types of meta data we addressed this week to the head. I was a
+little confused about whether or not the elements that go inside the head and
+body are considered head and body elements. I answered the
 README question assuming that wasn't the case, but I wasn't sure.
 
 I decided to make this week's webpage on a cream puff recipe, because I've been
 trying to get my boyfriend to make them for me since I found out he knew how. I
-added the headings to the <body> with the recipe title in heading 1, the ingredients
+added the headings to the body with the recipe title in heading 1, the ingredients
 and directions in heading 2, and the contact me in heading 4. I chose to make
 the contact me section smaller and separated by a horizontal rule because that
 information felt separate from the recipe itself. I also chose to include outside
