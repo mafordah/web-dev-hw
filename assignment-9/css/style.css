@@ -1,0 +1,48 @@
+/* Elements */
+body{
+  background-color: #d0edf0;
+}
+div {
+  background: peachPuff;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+h1 {
+  font-family: Georgia;
+  color: peachPuff;
+  font-size: 60px;
+  text-align: right;
+}
+p {
+  font-family: Georgia;
+  text-align: center;
+  color: salmon;
+}
+
+/* Classes */
+.centered {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* ids */
+#topDiv {
+  background: #faec94;
+  margin: auto;
+  width: 33%;
+  padding: 10px;
+}
+#greyStar1 {
+  width: 25%;
+  opacity: 0.5;
+}
+#greyStar2 {
+  width: 25%;
+  float: right;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  opacity: 0.5;
+}
