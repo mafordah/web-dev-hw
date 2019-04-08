@@ -1,0 +1,85 @@
+/* Pseudo Elements */
+p:first-of-type::first-letter{
+  font-family: 'Love Ya Like A Sister', cursive, sans-serif;
+  font-size: 42px;
+  color: rgb(56, 39, 113);
+}
+a:hover {
+   color: #a6db38;
+   font-weight: bold;
+}
+
+/* Elements */
+body{
+  background-color: rgb(247, 245, 230);
+}
+h1{
+  text-align: center;
+  color: rgb(56, 39, 113);
+  font-family: 'Love Ya Like A Sister', cursive, sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+}
+h4{
+  font-weight: normal;
+  padding-right: 120px;
+}
+div{
+  background: white;
+  margin: auto;
+  width: 95%;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+p{
+  text-align: justify;
+  text-indent: 2em;
+  font-family: 'Playfair Display', georgia, times, serif;
+  font-weight: normal;
+}
+hr{
+  width: 33%;
+}
+
+/* Classes */
+.center{
+  text-align: center;
+  text-indent: 0px;
+}
+.right{
+  text-align: right;
+  text-indent: 0px;
+  font-family: 'Playfair Display', georgia, times, serif;
+}
+.left{
+  text-align: left;
+  text-indent: 0px;
+}
+
+
+/* ids */
+#inviteText{
+  text-align: center;
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size:19px;
+  color: rgb(56, 39, 113);
+  font-weight: normal;
+}
+
+#continue{
+  text-align: center;
+  text-indent: 0px;
+  font-size: 24;
+}
+
+#outside{
+  background: rgb(56, 39, 113);
+  margin: auto;
+  width: 70%;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
