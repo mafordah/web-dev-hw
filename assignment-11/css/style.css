@@ -1,0 +1,123 @@
+/* Elements */
+body{
+
+}
+h1{
+  margin: 10px;
+  text-align: center;
+}
+h3{
+  margin: 1px;
+  text-align: center;
+}
+h4{
+  margin: 1px;
+  text-align: center;
+}
+/* Classes */
+
+/* ids */
+#canvas{
+  width: 528px;
+  height: 528px;
+  margin: auto;
+  padding: 20px;
+  background-color: rgb(219, 216, 204);
+}
+
+#border{
+  width: 500px;
+  height: 500px;
+  padding: 10px;
+  background-color: rgb(231, 198, 157);
+  border-width: 4px;
+  border-style: inset;
+}
+
+#topRect{
+  width: 390px;
+  height: 150px;
+  padding-top: 50px;
+  padding-left: 98px;
+  padding-right: 10px;
+  z-index: 0;
+  background-color: rgb(219, 216, 204);
+  border-width: 1px;
+  border-style: solid;
+}
+
+#bottomRect{
+  width: 420px;
+  height:  297px;
+  padding-left: 68px;
+  padding-right: 10px;
+  z-index: 1;
+  background-color: rgb(219, 216, 204);
+  border-width: 1px;
+  border-style: solid;
+}
+
+#redRect{
+  width: 68px;
+  height: 220px;
+  position: absolute;
+  top: 200px;
+  z-index: 2;
+  background-color: rgb(171, 51, 59);
+  border-width: 1px;
+  border-style: solid;
+}
+
+#squareBig{
+  width: 230px;
+  height: 230px;
+  position: absolute;
+  z-index: 4;
+  background-color: rgb(219, 216, 204);
+  border-width: 1px;
+  border-style: solid;
+}
+
+#greyRect{
+  width: 390px;
+  height: 100px;
+  position: absolute;
+  left:
+  z-index: 3;
+  background-color: rgb(50, 51, 54);
+  border-width: 1px;
+  border-style: solid;
+}
+
+
+#rectSmall{
+  width: 130px;
+  height: 63px;
+  position: absolute;
+  top: 476;
+  z-index: 6;
+  background-color: rgb(219, 216, 204);
+  border-width: 2px;
+  border-style: solid;
+}
+
+#yellowRect{
+  width: 390px;
+  height: 63px;
+  position: absolute;
+  top: 476;
+  z-index: 5;
+  background-color: rgb(169, 171, 27);
+  border-width: 2px;
+  border-style: solid;
+}
+
+#blueSquare{
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  z-index: 7;
+  background-color: rgb(46, 40, 130);
+  border-width: 1px;
+  border-style: solid;
+}
