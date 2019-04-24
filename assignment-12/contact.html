@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <!-- Meta Data -->
+    <meta charset="UTF-8">
+    <meta name="description" content="Contact">
+    <meta name="author" content="Miya Fordah">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+
+    <!-- Links -->
+    <link rel="stylesheet" type="text/css" href="./css/style.css" / >
+    <link href="https://fonts.googleapis.com/css?family=Saira:500|Slabo+27px" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <!-- Elements -->
+    <h1 id=webTitle> Beachside Realtor Company </h1>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./services.html">Services</a></li>
+          <li><a href="./about.html">About</a></li>
+          <li><a href="./contact.html">Contact</a></li>
+          <li class="dropdown">Learn More
+            <ul class="dropdownList">
+              <li>
+                <a id=dropdownItem href="https://www.car.org/en/Find-a-REALTOR" target="_blank">Realtors</a>
+              </li>
+              <li>
+                <a id=dropdownItem href="https://www.realtor.com/advice/buy/" target="_blank">Buying</a>
+              </li>
+              <li>
+                <a id=dropdownItem href="https://www.nolo.com/legal-encyclopedia/selling-home-california-key-legal-requirements-know-about.html" target="_blank">Selling</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+   <img class="center" src="./images/contactImage.jpg" alt="Beach house on the water" />
+
+   <div>
+      <h3> Contact Us </h3>
+      <form action="https://mafordah.github.io/web-dev-hw/assignment-12/" method="post" id="contactForm" class="simpleForm">
+        <p>
+           First Name: <input type="text" name="date" id="nameInput" size="10"/>  Last Name: <input type="text" name="date" id="nameInput" size="15"/><br />
+        </p>
+        <p>
+           Email: <input type="text" name="email" id="emailInput" /> <br />
+        </p>
+        <p>
+           Questions and Comments: <br />
+           <textarea name="comments" id="commentsInput" cols="70" rows="8" placeholder="Let us know what you think"></textarea> <br />
+           <input type="submit" name="submit" value="Submit" />
+         </p>
+       </form>
+       <hr />
+       <br />
+   </div>
+   <h1 id=footer> (c) Beachside Realtor Company LLC., Miya Fordah, 2019 </h1>
+  </body>
+</html>
