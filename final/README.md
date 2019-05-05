@@ -19,4 +19,6 @@ I used a structure similar to my CSS website but changed the header photos by go
 
 I had some issues with spacing that created a lot of extra space on the right side if the window is resized. I couldn't figure out what in the code was causing it. I also noticed that the dropdown, though in the correct place in Chrome, was too high when I opened it in Internet Explorer. I couldn't find a way to change the spacing without negatively impacting one or the other.
 
-I definitely had to go back and look up aspects of web design and development that I'd forgotten. Specifically, self-hosted videos and how to link them with posters. Other than that, I had very few hiccups in creating this website.
+I definitely had to go back and look up aspects of web design and development that I'd forgotten. Specifically, self-hosted videos and how to link them with posters. I also had more videos in my video collection, but I ran into file size issues.
+
+I've had a great time in this web design, and I can't wait to continue throughout my college career.
