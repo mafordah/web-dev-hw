@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <!-- Meta Data -->
+    <meta charset="UTF-8">
+    <meta name="description" content="Contact">
+    <meta name="author" content="Miya Fordah">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+
+    <!-- Links -->
+    <link rel="stylesheet" type="text/css" href="./css/style.css" / >
+    <link rel="stylesheet" href="https://use.typekit.net/ssw8pwo.css">
+
+  </head>
+
+  <body>
+    <!-- Elements -->
+    <h1 id=webTitle> Miya Fordah </h1>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="./index.html">HOME</a></li>
+          <li class="dropdown">GALLERY</a>
+            <ul class="dropdownList">
+              <li>
+                <a id=dropdownItem href="./images.html">IMAGES</a>
+              </li>
+              <li>
+                <a id=dropdownItem href="./videos.html">VIDEO</a>
+              </li>
+            </ul>
+          </li>
+          <li><a href="./about.html">ABOUT</a></li>
+          <li class="current"><a href="./contact.html">CONTACT</a></li>
+      </nav>
+    </header>
+
+   <img id=headerImage class="center" src="./images/contactPage.png" alt="Beach house on the water" />
+
+   <div>
+      <h3> CONTACT </h3>
+      <form action="https://mafordah.github.io/web-dev-hw/assignment-12/" method="post" id="contactForm" class="simpleForm">
+        <p>
+           First Name: <input type="text" name="date" id="nameInput" size="10"/>  Last Name: <input type="text" name="date" id="nameInput" size="15"/><br />
+        </p>
+        <p>
+           Email: <input type="text" name="email" id="emailInput" /> <br />
+        </p>
+        <p>
+           Inquiries: <br />
+           <textarea name="inquiries" id="inquiriesInput" cols="70" rows="8" placeholder="What can I help you with?"></textarea> <br />
+           <input type="submit" name="submit" value="Submit" />
+         </p>
+       </form>
+       <br />
+   </div>
+   <div id=footer>
+     <p> (c) Miya Fordah, 2019 </p>
+   </div>
+  </body>
+</html>
